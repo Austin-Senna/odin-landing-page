@@ -1,1 +1,2 @@
 # odin-landing-page
+This is my landing page for the second foundations project. I decided to use Pokemon instead of a boring generic company, and here are my results with them. All the images are copyrighted by The Pokemon Company.
